@@ -1,4 +1,4 @@
-# imagem_up_resize 0.3
+# Imagem up resize 0.3
 
 Primeira aplicação em Django 1.11.4
 
