@@ -9,8 +9,9 @@
         <!-- Lista de arquivos -->
         {% if imagens %}
             <ul>
+                <h1>Imagens</h1>
                 {% for imagem in imagens %}
-                    <li><a href="{{ imagem.img.url }}">{{ imagem.img.name }}</a></li>
+                <p><a href={{ imagem.img.url }}><img src={{ imagem.img.url }} ></a></p>
                 {% endfor %}
             </ul>
         {% else %}
