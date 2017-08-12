@@ -7,5 +7,7 @@ Aplicação realiza upload de imagem e redimensiona, no caso aqui setado em 50X5
 ## Próximos Objetivos
 
 Permitir inserir tamanho
+
 Apresentação em slides
+
 Melhorar estilo do Html
